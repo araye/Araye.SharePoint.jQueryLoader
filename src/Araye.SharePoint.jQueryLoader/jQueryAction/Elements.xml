@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <CustomAction Id="0a084c02-09bd-4af5-a8e0-78ec0544e776" Sequence="100" Location="ScriptLink" Title="jQueryAction" ScriptSrc="~site/jquery-1.10.2.min.js" />
+</Elements>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="jQueryFileModule">
+  <File Path="jQueryFileModule\jquery-1.10.2.min.js" Url="jquery-1.10.2.min.js" />
+</Module>
+</Elements>

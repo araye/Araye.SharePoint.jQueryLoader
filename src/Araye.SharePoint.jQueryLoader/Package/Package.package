@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="7a66c95c-94f1-4fb9-99de-e6cfce0a0da3" solutionId="7a66c95c-94f1-4fb9-99de-e6cfce0a0da3" resetWebServer="false" name="Araye.SharePoint.jQueryLoader" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="3aedae37-14fe-4a0a-9827-b98fb4bb11d0" />
+  </features>
+  <projectItems>
+    <projectItemReference itemId="1d1e208b-ed9d-4579-a17f-db4a2363b12b" />
+    <projectItemReference itemId="a1d66344-4be9-4207-9115-1f6f47f3db34" />
+  </projectItems>
+</package>
